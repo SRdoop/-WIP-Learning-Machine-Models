@@ -2,7 +2,7 @@ Learning how to create machine models in python using a kraggle dataset made to 
 
 End Goal :
 
-Create a machine that will generalize and prredict malware in android softwares 
+Create a machine that will generalize and predict malware in android softwares 
 
 
 Simple progress checker for portfolio on this project. 
